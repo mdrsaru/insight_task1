@@ -14,7 +14,7 @@ console.log("Object Literal")
 console.log(Person2.getFullName());
 console.log(Person2);
 
-//constructor notation
+//Constructor notation
 
 function Person1(){
     this.firstName="saru";
